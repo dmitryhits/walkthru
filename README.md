@@ -8,3 +8,5 @@ This is another paragraph
 
 - First
 - Second
+
+## New section
